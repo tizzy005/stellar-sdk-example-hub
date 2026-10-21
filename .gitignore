@@ -1,7 +1,6 @@
 node_modules/
 dist/
 coverage/
-.env
 *.log
 .eslintcache
 .DS_Store
@@ -11,3 +10,8 @@ issue.md
 skills-lock.json
 .*-checkpoint.json
 .*-checkpoint.json.*.tmp
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
